@@ -1,0 +1,13 @@
+[
+  {
+    "name":"apple",
+    "className":"ioc.entity.Apple"
+  },
+  {
+    "name":"banana",
+    "className":"ioc.entity.Banana"
+  }
+]
+
+
+
