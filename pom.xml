@@ -13,6 +13,7 @@
     <modules>
 
         <module>ioc</module>
+        <module>aop</module>
     </modules>
 
     <dependencyManagement>

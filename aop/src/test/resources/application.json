@@ -1,0 +1,31 @@
+[
+  {
+    "name":"beforeMethod",
+    "className":"StartTimeBeforeMethod"
+  },
+  {
+    "name":"processMethod",
+    "className":"ProcessTimeBeforeMethod"
+  },
+  {
+    "name":"afterMethod",
+    "className":"EndTimeAfterMethod"
+  },
+  {
+    "name":"testService",
+    "className":"TestService"
+  },
+  {
+    "name":"testServiceProxy",
+    "className":"core.ProxyFactoryBean",
+    "target":"testService",
+    "interceptorNames":[
+      "beforeMethod",
+      "processMethod",
+      "afterMethod"
+    ]
+  }
+]
+
+
+
