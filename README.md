@@ -31,7 +31,11 @@
 
   
  
-<br /><br />
+<br />
+![](https://raw.githubusercontent.com/pandalee99/image_store/master/hexo/image.png)
+
+
+<br />
 
 ## 实现步骤
 ### IOC的实现步骤
